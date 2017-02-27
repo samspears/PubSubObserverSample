@@ -1,4 +1,5 @@
-﻿using System;
+//code-source: http://www.dofactory.com/net/observer-design-pattern
+using System;
 using System.Collections.Generic;
 
 namespace InvestorPublishserSubscriberPattern
